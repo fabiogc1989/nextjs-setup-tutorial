@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-setup-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiogc1989/nextjs-setup-tutorial.git"
+  },
+  "author": "Fabio Coimbra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabiogc1989/nextjs-setup-tutorial/issues"
+  },
+  "homepage": "https://github.com/fabiogc1989/nextjs-setup-tutorial#readme",
+  "dependencies": {
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
